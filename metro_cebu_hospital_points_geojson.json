@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.989725, 10.282454]
+      },
+      "properties": {
+        "name": "MactanMed (Mactan Optimal Medical Center) formerly ARC Hospital",
+        "city": "Lapu-Lapu City",
+        "barangay": "Agus",
+        "address": "Agus, Lapu-Lapu City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.9508, 10.3015]
+      },
+      "properties": {
+        "name": "Lapu-Lapu City Hospital",
+        "city": "Lapu-Lapu City",
+        "barangay": "Gun-ob",
+        "address": "A. Tumulak Street, Gun-ob, Lapu-Lapu City",
+        "type": "Public Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.954111, 10.310454]
+      },
+      "properties": {
+        "name": "Our Lady of the Rule Maternity and General Hospital",
+        "city": "Lapu-Lapu City",
+        "barangay": "Pajo",
+        "address": "Pajo, Lapu-Lapu City",
+        "type": "Maternity and General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.931333, 10.322957]
+      },
+      "properties": {
+        "name": "Chong Hua Hospital Mandaue",
+        "city": "Mandaue City",
+        "barangay": "Subangdaku",
+        "address": "Mantawe Ave, Subangdaku, Mandaue City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.930590, 10.320741]
+      },
+      "properties": {
+        "name": "University of Cebu Medical Center - UCMed",
+        "city": "Mandaue City",
+        "barangay": "Subangdaku",
+        "address": "Ouano Ave, Subangdaku, Mandaue City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.953952, 10.338541]
+      },
+      "properties": {
+        "name": "The Hospital at Maayo",
+        "city": "Mandaue City",
+        "barangay": "Bakilid",
+        "address": "UN Avenue, Bakilid, Mandaue City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.942821, 10.323670]
+      },
+      "properties": {
+        "name": "Mandaue City Hospital",
+        "city": "Mandaue City",
+        "barangay": "Tipolo",
+        "address": "A. Soriano Ave, Tipolo, Mandaue City",
+        "type": "Public Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.9452, 10.3545]
+      },
+      "properties": {
+        "name": "Eversley Childs Sanitarium and General Hospital",
+        "city": "Mandaue City",
+        "barangay": "Jagobiao",
+        "address": "Upper Jagobiao, Mandaue City",
+        "type": "Government Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8911, 10.3100]
+      },
+      "properties": {
+        "name": "Chong Hua Hospital",
+        "city": "Cebu City",
+        "barangay": "Capitol Site",
+        "address": "Fuente Osmeña Cir, Capitol Site, Cebu City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8895, 10.3090]
+      },
+      "properties": {
+        "name": "Vicente Sotto Memorial Medical Center (VSMMC)",
+        "city": "Cebu City",
+        "barangay": "Sta. Cruz",
+        "address": "B. Rodriguez St, Sta. Cruz, Cebu City",
+        "type": "Public Medical Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8860, 10.2940]
+      },
+      "properties": {
+        "name": "Cebu City Medical Center (CCMC)",
+        "city": "Cebu City",
+        "barangay": "Pasil",
+        "address": "N.B. Bacalso Ave, Pasil, Cebu City",
+        "type": "Public Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8940, 10.3020]
+      },
+      "properties": {
+        "name": "Healthway Cebu Velez General Hospital",
+        "city": "Cebu City",
+        "barangay": "Cogon Ramos",
+        "address": "F. Ramos St, Cogon Ramos, Cebu City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8930, 10.2970]
+      },
+      "properties": {
+        "name": "St. Vincent General Hospital Cebu, Inc.",
+        "city": "Cebu City",
+        "barangay": "Sambag II",
+        "address": "R. Landon Ext, Sambag II, Cebu City",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8450, 10.2430]
+      },
+      "properties": {
+        "name": "Cebu South Medical Center",
+        "city": "Talisay City",
+        "barangay": "San Isidro",
+        "address": "San Isidro, Talisay City",
+        "type": "Government Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8420, 10.2330]
+      },
+      "properties": {
+        "name": "Mini Hospital",
+        "city": "Talisay City",
+        "barangay": "Mohon",
+        "address": "Mohon, Talisay City",
+        "type": "Community Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.9683, 10.3818]
+      },
+      "properties": {
+        "name": "Mendero Medical Center",
+        "city": "Consolacion",
+        "barangay": "Pitogo",
+        "address": "Cebu North Road, Pitogo, Consolacion",
+        "type": "General Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.9732, 10.3785]
+      },
+      "properties": {
+        "name": "Clinica Prime Consolacion",
+        "city": "Consolacion",
+        "barangay": "Cansaga",
+        "address": "National Highway, Cansaga, Consolacion",
+        "type": "Outpatient Clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.0182, 10.4382]
+      },
+      "properties": {
+        "name": "Twilight Maternity Clinic - Compostela",
+        "city": "Compostela",
+        "barangay": "Estaca",
+        "address": "Estaca, Compostela",
+        "type": "Maternity Clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.0145, 10.4325]
+      },
+      "properties": {
+        "name": "Compostela Birthing Center",
+        "city": "Compostela",
+        "barangay": "Poblacion",
+        "address": "Poblacion, Compostela",
+        "type": "Birthing Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.9945, 10.3980]
+      },
+      "properties": {
+        "name": "Liloan Community Medical Center",
+        "city": "Liloan",
+        "barangay": "Poblacion",
+        "address": "Poblacion, Liloan",
+        "type": "Community Medical Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.9972, 10.3948]
+      },
+      "properties": {
+        "name": "Front-line Medical and Diagnostic Center",
+        "city": "Liloan",
+        "barangay": "Poblacion",
+        "address": "Poblacion, Liloan",
+        "type": "Medical and Diagnostic Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.0280, 10.5150]
+      },
+      "properties": {
+        "name": "Cebu Provincial Hospital - Danao",
+        "city": "Danao City",
+        "barangay": "Poblacion",
+        "address": "Poblacion, Danao City",
+        "type": "Public Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.0250, 10.5120]
+      },
+      "properties": {
+        "name": "Danao Mother & Child Hospital",
+        "city": "Danao City",
+        "barangay": "Suba",
+        "address": "Suba, Danao City",
+        "type": "Specialty Hospital"
+      }
+    }
+  ]
+}
