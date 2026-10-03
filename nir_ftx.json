@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Command Post"
+        "name": "Command Post",
 	"markerType": "flag"
       },
       "geometry": {
