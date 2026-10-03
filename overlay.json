@@ -1,6 +1,11 @@
 [
   {
+    "label": "NIR FTX 2027",
+    "file": "nir_ftx.json"
+  },
+  {
     "label": "Metro Cebu - Hospital Facilities",
     "file": "metro_cebu_hospital_points_geojson.json"
   }
+
 ]

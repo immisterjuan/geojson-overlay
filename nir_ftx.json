@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Command Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.94430235789777, 10.294616142251826]
+      }
+    }
+  ]
+}
